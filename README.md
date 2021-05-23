@@ -1,2 +1,2 @@
 # VTOL-DRONE
-Volansi Project Demonstrating Current Skills for 
+Volansi Project Demonstrating Current Skills
