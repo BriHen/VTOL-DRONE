@@ -17,10 +17,16 @@ One rotor is used for horizontal movement, in combination with wings allow for f
 Volansi's design allows for their aircraft to take off in tight spaces and have an easy transition to horizontal flight. In addition this allows for the aircraft to take-off and land either as a plane or a quad-copter. Multiple safety features such as having both wing and elevator flaps create backup systems incase a failure were to occur during operation.
 
 ### Vertical to Horizontal Rotor Transitioning
-Concept: Utilize two of the vertical rotors to operate in a horizontal position, allowing for the removal of the single horizontal motor and rotor (weight reduction). The front rotor concept will be reviewed. The aft is a possiblity, but would potentially require the addition of another wing (tight on time). 
+Concept: Utilize two of the vertical rotors to operate in a horizontal position, allowing for the removal of the single horizontal motor and rotor (weight reduction).
 *Note - There is a possibility that Volansi has a reason for not having this in their current design, this is unknown.
 
 Givens:
 * Length of the aircraft is 9 feet, from visual proportions the forward structure holding rotors is estimated at 4 inches tall, assuming it's a cylinder. 
 * Only designing for the Series 10 aircraft as they have single vertical rotors
-* 
+* The front rotor concept will be reviewed. The aft is a possiblity, but would potentially require the addition of another wing (tight on time). 
+* Energy usage and weight reduction is assumed to make this project beneficial
+
+Concept Design:
+![image](https://user-images.githubusercontent.com/73624921/119249481-b21c3100-bb4d-11eb-9d15-9e66aa1be0e7.png)
+
+
