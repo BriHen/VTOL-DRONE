@@ -37,7 +37,7 @@ Concept Design:
 
 Comments:
 
-Estimated Proportions of the motor used for the rotors vs the DC motor in my drawer. 
+Estimated Proportions of the motor used for the rotors vs the DC motor in my drawer. Really puts this into perspective.
 ![image](https://user-images.githubusercontent.com/73624921/119249739-d973fd80-bb4f-11eb-8147-8f61fc0968c2.png)
 
 
