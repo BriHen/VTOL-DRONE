@@ -7,14 +7,14 @@ Volansi Project Demonstrating Current Skills
 * Tools - 3D filiment printer, 3D resin printer 
 
 ## Project - Altering Method for Vertical to Horizontal Flight
-Volansi Merck VOLY C10, C20, and M20 Utilize Fixed Horizontal and Vertical Rotors
+Volansi Merck VOLY C10, C20, and M20 utilize fixed horizontal and vertical Rotors
 ![image](https://user-images.githubusercontent.com/73624921/119247533-28656700-bb3f-11eb-8cd7-1ffc272eb71e.png)
 
 Each design has four points of vertical lift for vertical take-off and landing (VTOL). The use of clockwise and counter-clockwise rotors allow for typical Quad-Copter functionality.
 
-One rotor is used for horizontal movement, in combination with wings allow for fixed-wing (airplane) flight. This is crucial for operating long distances, the use of wings and a single rotor reduces the energy required for flight.
+One rotor is used for horizontal movement, in combination with wings allow for fixed-wing (airplane) flight. This is crucial for operating long distances, the use of wings and a single rotor reduces consuption allowing for further distances.
 
-Volansi's design allows for their aircraft to take off in tight spaces and have an easy transition to horizontal flight. In addition this allows for the aircraft to take-off and land either as a plane or a quad-copter. Multiple safety features such as having both wing and elevator flaps create backup systems incase a failure were to occur during operation.
+Volansi's design allows for their aircraft to take off in tight spaces and have an easy transition to horizontal flight. In addition this allows for the aircraft to take-off and land either as a plane or a quad-copter. Multiple safety features, such as having both wing and elevator flaps, create backup systems incase a failure were to occur during operation.
 
 ### Vertical to Horizontal Rotor Transitioning
 Concept: Utilize two of the vertical rotors to operate in a horizontal position, allowing for the removal of the single horizontal motor and rotor (weight reduction).
@@ -39,6 +39,7 @@ Comments:
 
 Estimated Proportions of the motor used for the rotors vs the DC motor in my drawer. Really puts this into perspective.
 ![image](https://user-images.githubusercontent.com/73624921/119249739-d973fd80-bb4f-11eb-8147-8f61fc0968c2.png)
+![Trial v3](https://user-images.githubusercontent.com/73624921/119272906-39ed5400-bbbd-11eb-8e0d-3053f4c89b82.gif)
 
 
 
