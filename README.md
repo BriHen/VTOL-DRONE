@@ -25,8 +25,21 @@ Givens:
 * Only designing for the Series 10 aircraft as they have single vertical rotors
 * The front rotor concept will be reviewed. The aft is a possiblity, but would potentially require the addition of another wing (tight on time). 
 * Energy usage and weight reduction is assumed to make this project beneficial
+* DC Motor that will be used is fairly small, to allow for a prototype 1/3 scale will be used
 
 Concept Design:
 ![image](https://user-images.githubusercontent.com/73624921/119249481-b21c3100-bb4d-11eb-9d15-9e66aa1be0e7.png)
+
+
+
+
+
+
+Comments:
+
+Estimated Proportions of the motor used for the rotors vs the DC motor in my drawer. 
+![image](https://user-images.githubusercontent.com/73624921/119249739-d973fd80-bb4f-11eb-8147-8f61fc0968c2.png)
+
+
 
 
