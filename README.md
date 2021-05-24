@@ -30,6 +30,10 @@ Givens:
 Concept Design:
 ![image](https://user-images.githubusercontent.com/73624921/119249481-b21c3100-bb4d-11eb-9d15-9e66aa1be0e7.png)
 
+### Draft Designs
+
+![image](https://user-images.githubusercontent.com/73624921/119297496-eb1cda00-bc0f-11eb-8013-a01bdd04c077.png)
+![image](https://user-images.githubusercontent.com/73624921/119297549-0ab40280-bc10-11eb-9c03-b45f64910f2a.png)
 
 
 
