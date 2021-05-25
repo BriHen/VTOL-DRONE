@@ -18,7 +18,7 @@ Volansi's design allows for their aircraft to take off in tight spaces and have 
 
 ### Vertical to Horizontal Rotor Transitioning
 Concept: Utilize two of the vertical rotors to operate in a horizontal position, allowing for the removal of the single horizontal motor and rotor (weight reduction).
-*Note - There is a possibility that Volansi has a reason for not having this in their current design, this is unknown.
+*Note - There is a possibility that Volansi has a reason for not having this in their current design, this is unknown. Also this is intended to be a new design, so no ability to recreate Wingcopter joints and avoid joints used in patent RU180474U1.
 
 Givens:
 * Length of the aircraft is 9 feet, from visual proportions the forward structure holding rotors is estimated at 4 inches tall, assuming it's a cylinder. 
