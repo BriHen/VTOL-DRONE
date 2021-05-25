@@ -1,7 +1,7 @@
 # VTOL-UAV
 Volansi Project Demonstrating Current Skills
 * Purpose - Demonstrate the ability to design and rapid prototype concepts for potential employment as a Design Mechanical Engineer with Volansi
-* Timeframe - 5/22 thru 5/26
+* Timeframe - 5/22 thru 5/26 (unsure how complete project will be)
 * Materials - What is currently in my office
 * Tools - 3D filament printer, 3D resin printer 
 
