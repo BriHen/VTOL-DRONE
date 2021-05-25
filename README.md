@@ -40,16 +40,17 @@ A simple 45-degree bevel spur gear was drawn to show a potential application. A 
 
 
 #### Dragon's Neck
-Using cone like structures multiple joints can be created to allow for streamline horizontal flight and a raised "arm" for vertical flight. Pins with slots allow the cones to fit within each other, and a maximum angle of 20 degrees between joints is possible. Tt is possible to redesign for each joint to have 22.5 degrees of freedom reducing the length of the assembly by one cone, but this will reduce the diameter of the electrical conduit that could run through the joints. 
+Using cone like structures multiple joints can be created to allow for streamline horizontal flight and a raised "arm" for vertical flight. 
 ![image](https://user-images.githubusercontent.com/73624921/119436765-af4a4900-bcd1-11eb-8c0a-9c6f884de53c.png)
 ![image](https://user-images.githubusercontent.com/73624921/119436814-c5580980-bcd1-11eb-9900-28f8881d84fb.png)
 
+Pins with slots allow the cones to fit within each other, and a maximum angle of 20 degrees between joints is possible. Tt is possible to redesign for each joint to have 22.5 degrees of freedom reducing the length of the assembly by one cone, but this will reduce the diameter of the electrical conduit that could run through the joints. 
 
 
 
 
 
-Comments:
+## Extra Fun
 
 Estimated Proportions of the motor used for the rotor’s vs the DC motor in my drawer. Really puts this into perspective.
 ![image](https://user-images.githubusercontent.com/73624921/119249739-d973fd80-bb4f-11eb-8147-8f61fc0968c2.png)
