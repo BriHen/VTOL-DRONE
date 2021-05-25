@@ -40,7 +40,7 @@ A simple 45-degree bevel spur gear was drawn to show a potential application. A 
 
 
 #### Dragon's Neck
-Using cone like structures multiple joints can be created to allow for streamline horizontal flight and a raised "arm" for vertical flight. 
+Using cone like structures multiple joints can be created to allow for streamline horizontal flight and a raised "neck" for vertical flight. 
 ![image](https://user-images.githubusercontent.com/73624921/119436765-af4a4900-bcd1-11eb-8c0a-9c6f884de53c.png)
 ![image](https://user-images.githubusercontent.com/73624921/119436814-c5580980-bcd1-11eb-9900-28f8881d84fb.png)
 
