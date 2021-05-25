@@ -31,9 +31,20 @@ Concept Design:
 ![image](https://user-images.githubusercontent.com/73624921/119249481-b21c3100-bb4d-11eb-9d15-9e66aa1be0e7.png)
 
 ### Draft Designs
+#### The Not So Simple Pivot
+Using a 45 degree cut, its possible to have a quick swivle to the end of the structure, allowing a quick change from horizontal to vertical. 
+![image](https://user-images.githubusercontent.com/73624921/119436889-e4569b80-bcd1-11eb-819d-98846d92e0da.png)
+![image](https://user-images.githubusercontent.com/73624921/119436942-f89a9880-bcd1-11eb-8799-28710e5401ef.png)
+![image](https://user-images.githubusercontent.com/73624921/119443439-7b295500-bcde-11eb-8dce-61ad08ced811.png)
 
-![image](https://user-images.githubusercontent.com/73624921/119297496-eb1cda00-bc0f-11eb-8013-a01bdd04c077.png)
-![image](https://user-images.githubusercontent.com/73624921/119297549-0ab40280-bc10-11eb-9c03-b45f64910f2a.png)
+A simple 45 degree bevel spur gear was drawn to show a potential application. A final design would require a bearing to allow the joint to rotate smoothly. This gear box would be fairly complicated for the size, and the need for somewhat robost gears would add additional weight to the system that might counteract the benefits. 
+
+
+#### Dragon's Neck
+Using cone like structures multiple joints can be created to allow for streamline horizontal flight and a raised "arm" for vertical flight. Pins with slots allow the cones to fit within each other, and a maximum angle of 20 degrees between joints is possible. Tt is possible to redesign for each joint to have 22.5 degrees of freedom reducing the length of the assembly by one cone, but this will reduce the diameter of the electrical conduit that could run through the joints. 
+![image](https://user-images.githubusercontent.com/73624921/119436765-af4a4900-bcd1-11eb-8c0a-9c6f884de53c.png)
+![image](https://user-images.githubusercontent.com/73624921/119436814-c5580980-bcd1-11eb-9900-28f8881d84fb.png)
+
 
 
 
