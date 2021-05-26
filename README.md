@@ -63,7 +63,7 @@ Using cone like structures multiple joints can be created to allow for streamlin
 ![image](https://user-images.githubusercontent.com/73624921/119436765-af4a4900-bcd1-11eb-8c0a-9c6f884de53c.png)
 ![image](https://user-images.githubusercontent.com/73624921/119436814-c5580980-bcd1-11eb-9900-28f8881d84fb.png)
 
-Pins with slots allow the cones to fit within each other, and a maximum angle of 20 degrees between joints is possible. Tt is possible to redesign for each joint to have 22.5 degrees of freedom reducing the length of the assembly by one cone, but this will reduce the diameter of the electrical conduit that could run through the joints. 
+Pins with slots allow the cones to fit within each other, and a maximum angle of 20 degrees between joints is possible. It is possible to redesign for each joint to have 22.5 degrees of freedom reducing the length of the assembly by one cone, but this will reduce the diameter of the electrical conduit that could run through the joints. 
 
 The top slot on the cones can be reduced in size which would limit movement, and springs could be used in a relaxed state during vertical flight and compressed during horizontal flight. This could be complicated as the spring constant would need to be tuned to allow for a stiff extension as well as a fluid transition between flight profiles. 
 
