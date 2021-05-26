@@ -30,13 +30,31 @@ Concept Design:
 ![image](https://user-images.githubusercontent.com/73624921/119249481-b21c3100-bb4d-11eb-9d15-9e66aa1be0e7.png)
 
 ### Draft Designs
-#### The Not So Simple Pivot
+#### The Simple Pivot
 Using a 45-degree cut, it’s possible to have a quick swivel to the end of the structure, allowing a quick change from horizontal to vertical. 
-![image](https://user-images.githubusercontent.com/73624921/119436889-e4569b80-bcd1-11eb-819d-98846d92e0da.png)
-![image](https://user-images.githubusercontent.com/73624921/119436942-f89a9880-bcd1-11eb-8799-28710e5401ef.png)
-![image](https://user-images.githubusercontent.com/73624921/119443439-7b295500-bcde-11eb-8dce-61ad08ced811.png)
+![image](https://user-images.githubusercontent.com/73624921/119599586-264b1480-bd9a-11eb-90e1-319ee3fb38c2.png)
+![image](https://user-images.githubusercontent.com/73624921/119599612-3a8f1180-bd9a-11eb-9e9b-6ead9b9b725d.png)
 
 A simple 45-degree bevel spur gear was drawn to show a potential application. A final design would require a bearing to allow the joint to rotate smoothly. This gear box would be complicated for the size, and the need for somewhat robust gears would add additional weight to the system that might counteract the benefits. 
+
+![image](https://user-images.githubusercontent.com/73624921/119443439-7b295500-bcde-11eb-8dce-61ad08ced811.png)
+
+When transitioning from Vertical to Horizontal flight the rotor does not travel on the vertical plane, resulting in a the rotor facing sideways. This is a loss of energy and a can result in a difficult transition between the two flight profiles.
+
+![image](https://user-images.githubusercontent.com/73624921/119603819-c9079100-bda2-11eb-93ed-e57cd2b4f112.png)
+
+
+#### The Not So Simple Pivot
+Using a 45-degree cut, and a rotating section it will allow the rotor to travel only on the vertical plane.
+![image](https://user-images.githubusercontent.com/73624921/119436889-e4569b80-bcd1-11eb-819d-98846d92e0da.png)
+![image](https://user-images.githubusercontent.com/73624921/119436942-f89a9880-bcd1-11eb-8799-28710e5401ef.png)
+
+To keep the rotor on the vertical plane the tube section rotates 90 degrees while the rotor component rotates 180 degree. This requires another gearbox assembly and a bearing to allow for the other degree of rotation.
+
+![image](https://user-images.githubusercontent.com/73624921/119603907-fa805c80-bda2-11eb-811a-b64055653c04.png)
+![image](https://user-images.githubusercontent.com/73624921/119603922-02d89780-bda3-11eb-93c6-7f6739186a99.png)
+
+
 
 
 #### Dragon's Neck
