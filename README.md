@@ -69,12 +69,11 @@ The top slot on the cones can be reduced in size which would limit movement, and
 
 (Due to time and complication of a system this isnt modeled with internal components)
 
+## Final Ranking
+Each joint was ranked based on weight, ability to transition between vertical to horizontal flight, reliability, mechanical/electrical integration, manufacturability, and maintenance. 
+
+![image](https://user-images.githubusercontent.com/73624921/119607466-42a27d80-bda9-11eb-969d-85aa15ad84a1.png)
 
 
-## Extra Fun
-
-Estimated Proportions of the motor used for the rotor’s vs the DC motor in my drawer. Really puts this into perspective.
-![image](https://user-images.githubusercontent.com/73624921/119249739-d973fd80-bb4f-11eb-8147-8f61fc0968c2.png)
-![Trial v3](https://user-images.githubusercontent.com/73624921/119272906-39ed5400-bbbd-11eb-8e0d-3053f4c89b82.gif)
 
 
