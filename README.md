@@ -70,7 +70,7 @@ The top slot on the cones can be reduced in size which would limit movement, and
 (Due to time and complication of a system this is not modeled with internal components)
 
 ## Final Ranking
-Each joint was ranked based on weight, ability to transition between vertical to horizontal flight, reliability, mechanical/electrical integration, manufacturability, and maintenance. 
+Each joint was ranked based on weight, ability to transition between vertical to horizontal flight, reliability, mechanical/electrical integration, manufacturability, and maintenance. Ranking is 1 (worst) to 5 (best) with each category having a weighting to emphasize importance. The ranking and weighting is multiplied for each category and all summed for a total rank. Maximum total rank is 5. 
 
 ![image](https://user-images.githubusercontent.com/73624921/119607466-42a27d80-bda9-11eb-969d-85aa15ad84a1.png)
 
