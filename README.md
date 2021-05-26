@@ -44,7 +44,7 @@ When transitioning from Vertical to Horizontal flight the rotor does not travel 
 
 
 
-#### The Not So Simple Pivot
+#### The Not-Simple Pivot
 Using a 45-degree cut, and a rotating section it will allow the rotor to travel only on the vertical plane.
 
 ![image](https://user-images.githubusercontent.com/73624921/119436889-e4569b80-bcd1-11eb-819d-98846d92e0da.png)
@@ -67,13 +67,13 @@ Pins with slots allow the cones to fit within each other, and a maximum angle of
 
 The top slot on the cones can be reduced in size which would limit movement, and springs could be used in a relaxed state during vertical flight and compressed during horizontal flight. This could be complicated as the spring constant would need to be tuned to allow for a stiff extension as well as a fluid transition between flight profiles. 
 
-(Due to time and complication of a system this isnt modeled with internal components)
+(Due to time and complication of a system this is not modeled with internal components)
 
 ## Final Ranking
 Each joint was ranked based on weight, ability to transition between vertical to horizontal flight, reliability, mechanical/electrical integration, manufacturability, and maintenance. 
 
 ![image](https://user-images.githubusercontent.com/73624921/119607466-42a27d80-bda9-11eb-969d-85aa15ad84a1.png)
 
-
+When ranking it was found that the Not-Simple Pivot was determined to be the best joint. The Elephant Trunk had too many moving parts and a lot of added weight. The Simple Pivot not travaling on the vertical plane would cause concerning loading and would require the flight computer to compensate RPM during this movement to maintain a fluid transition.
 
 
